@@ -1,0 +1,7 @@
+id,transformer_id,winding_type_id,volts,amps,impedance
+1,1,1,120V,0,0
+2,1,2,650/550Vct,0.1,0
+3,1,2,6.3Vct,2.25,0
+4,1,2,5V,3,0
+5,2,1,200V,0.06,5000
+6,2,2,4.47V,1.58,4

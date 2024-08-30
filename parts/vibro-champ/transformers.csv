@@ -1,0 +1,3 @@
+id,part_number,transformer_type_id,core_type_id,wattage,amp_id
+1,125P1B,1,1,40,2
+2,125B,2,1,5,2
